@@ -11,6 +11,7 @@
     "axios": "^1.7.3",
     "bootstrap": "^5.2.3",
     "js-cookie": "^3.0.5",
+    "pulse-v1": "file:..",
     "react": "^18.3.1",
     "react-bootstrap": "^2.7.2",
     "react-dom": "^18.3.1",
